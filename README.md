@@ -29,7 +29,7 @@
   <li>🔁 <strong>Meal Plan Generation Loop Agent</strong> - Regenerates plan if required</li>
   <li>🎛️ <strong>Root Agent</strong> - Controls entire workflow and presents results</li>
 </ul>
-<img src ="https://github.com/Adharsh-jaison/MealPlanner/blob/main/MealPlannigWorkflow.png" alt="workflow">
+
 
 <h2>🛠️ Tools Used</h2>
 <p>Python 🐍 | Google ADK Agents 🤖 | Gemini Models 🌌 | Sequential & Parallel Agents 🔄 | Loop Agents 🔁 | APIs for Nutrition & Grocery 📊 | File Handling & Storage 💾 | Markdown & Visualization 📑 | Flowcharts & Diagrams 🗂️</p>
@@ -54,7 +54,6 @@
 <p>The MealPlanner Agent demonstrates how AI can simplify daily routines, reduce stress, and promote healthier eating. From preference collection to grocery lists and nutrition analysis, it delivers a <strong>complete, automated, personalized meal planning experience</strong>.</p>
 
 <h2>📈 Flow</h2>
-<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17265467%2F496201443d6e71137cb931bcb8008adc%2FMealflow.jpg?generation=1764223926405359&alt=media" alt="MealPlanner Flow">
-
+<img src ="https://github.com/Adharsh-jaison/MealPlanner/blob/main/MealPlannigWorkflow.png" alt="workflow">
 </body>
 </html>
