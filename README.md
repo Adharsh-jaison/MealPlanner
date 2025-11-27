@@ -1,4 +1,4 @@
-
+<img width="2816" height="1536" alt="Gemini_Generated_Image_9qvkam9qvkam9qvk" src="https://github.com/user-attachments/assets/0ba52bb9-77ad-418e-8642-4672939611db" />
 
 <h1>🍽️ MealPlanner Agent</h1>
 <p>AI-powered meal planning concierge that creates personalized weekly meal plans based on your preferences, health goals, and dietary restrictions.</p>
@@ -55,5 +55,11 @@
 
 <h2>📈 Flow</h2>
 <img src ="https://github.com/Adharsh-jaison/MealPlanner/blob/main/MealPlannigWorkflow.png" alt="workflow">
-</body>
-</html>
+
+<h2>🎬 Demo Video</h2>
+
+<a href="https://www.youtube.com/watch?v=Gio9wiSvf7Y" target="_blank">
+  <img src="https://img.youtube.com/vi/Gio9wiSvf7Y/maxresdefault.jpg" 
+       alt="Meal Planner Demo Video" width="600">
+</a>
+
